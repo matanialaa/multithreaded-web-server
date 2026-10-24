@@ -1,0 +1,6 @@
+*.o
+server
+client
+output.cgi
+public/
+.idea/
